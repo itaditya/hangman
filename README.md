@@ -4,6 +4,7 @@ A small game to guess the Pokemon Name.
 
 # Tech Stack
 React - For view
+
 Redux - For State Managment 
 
 # Architecure 
